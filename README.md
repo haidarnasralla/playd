@@ -1,6 +1,6 @@
-# Welcome to Playd 👋
+# Welcome to Playd! 🎵🎉
 
-## Watch The Run Through Of The App: https://www.youtube.com/watch?v=2VABk7nJpeA
+[![Watch the App Walkthrough](https://img.shields.io/badge/Watch-Run_Through-blue)](https://www.youtube.com/watch?v=2VABk7nJpeA)
 
 ## Tech Stack
 
@@ -10,74 +10,108 @@
 - **Expo**
 - **Firebase**
 
-## Downloading The Repo
+---
 
-1.  Click the green `Code` button and copy the URL <br>
+## 🚀 Getting Started
 
-<img src="readme-imgs/1.png" alt="repo-download-link" width="250" height="250">
+### 📥 Clone the Repository
 
-2. Open your terminal app and change directory into the folder you wish to download to:
+1. Click the green **Code** button and copy the repository URL.
+
+   <img src="readme-imgs/1.png" alt="repo-download-link" width="250" height="250">
+
+2. Open your terminal and navigate to the directory where you want to download the project:
 
    ```bash
    cd Downloads
    ```
 
-3. Download the repo:
+3. Clone the repository:
 
    ```bash
    git clone https://github.com/Dimeben/playd.git
    ```
 
-4. Change directory into the newly downloaded repo:
+4. Navigate to the project folder:
 
    ```bash
    cd playd
    ```
 
-5. Open the repo:
+5. Open the project in your editor:
 
    ```bash
    code .
    ```
 
-## Get Started
+---
 
-1. Install dependencies
+### 🛠 Installation & Running the App
+
+1. Install dependencies:
 
    ```bash
    npm install
    ```
 
-2. Start the app
+2. Start the app using Expo:
 
    ```bash
-    npx expo start
+   npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+   In the output, you'll find options to open the app in:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+   - A [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+   - An [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+   - An [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+   - [Expo Go](https://expo.dev/go), a limited sandbox for app development with Expo
 
-## Features
+---
 
-### Users
+## 🌟 Features
 
-1. **Login/Sign-up**: Users can log in or sign up for an account to access the app.
-2. **Browse DJs**: After logging in, users can see a list of available DJs to hire and can filter by location, genre and occasions.
-3. **DJ Profile**: View individual DJ profiles, including their price, ratings, and other details.
-4. **Booking a DJ**: Users can book DJs through the app by visiting the DJ's profile page and navigating to the booking page.
-5. **Manage Bookings**: Users can manage their past and upcoming bookings.
-6. **Leave Feedback**: After an event takes place, users can leave feedback for the DJ.
-7. **Profile Management**: Users can edit their own profile, updating their details as needed.
+### For Users
 
-### DJs
+1. **Login/Sign-up**  
+   Create an account or log in to access the app's features.
 
-1. **Login/Sign-up**: DJs can log in or sign up to create their profile.
-2. **View DJ Profile**: DJs can view their own profile to see what clients would see.
-3. **Edit Profile**: DJs can update their profile details such as description, price, genres, etc.
-4. **Manage Bookings**: DJs can manage all incoming and previous bookings, confirming or rejecting requests.
-5. **View DJ List**: DJs can also browse other DJs, allowing them to check out the competition or network.
-7. **Feedback Review**: DJs can view feedback left by clients after a gig and respond if necessary.
+2. **Browse DJs**  
+   View a list of available DJs filtered by location, genre, and occasion.
+
+3. **DJ Profile**  
+   Explore individual DJ profiles with pricing, ratings, and other details.
+
+4. **Book a DJ**  
+   Easily book DJs directly from their profile.
+
+5. **Manage Bookings**  
+   Track and manage past and upcoming bookings.
+
+6. **Leave Feedback**  
+   Provide feedback for DJs after events.
+
+7. **Profile Management**  
+   Update your personal profile details anytime.
+
+---
+
+### For DJs
+
+1. **Login/Sign-up**  
+   Create a profile to start offering your services.
+
+2. **View Your Profile**  
+   Preview your profile as seen by potential clients.
+
+3. **Edit Profile**  
+   Update profile details like description, pricing, genres, and more.
+
+4. **Manage Bookings**  
+   View, confirm, or reject incoming booking requests.
+
+5. **View Other DJs**  
+   Browse other DJs to network or check out the competition.
+
+6. **Feedback Review**  
+   Respond to client feedback after gigs.
