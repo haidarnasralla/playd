@@ -1,6 +1,6 @@
 # Welcome to Playd! 🎵🎉
 
-[![Watch the App Walkthrough](https://img.shields.io/badge/Watch-Run_Through-blue)](https://www.youtube.com/watch?v=2VABk7nJpeA)
+[Watch the App Walkthrough](https://www.youtube.com/watch?v=2VABk7nJpeA)
 
 ## Tech Stack
 
