@@ -1,4 +1,4 @@
-# Welcome to Playd! 🎵🎉
+# Welcome to PlayD! 🎵🎉
 
 [Watch the App Walkthrough](https://www.youtube.com/watch?v=2VABk7nJpeA)
 
